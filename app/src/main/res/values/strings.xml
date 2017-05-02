@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="button_text">Test</string>
+    <string name="menu_item_activity">Activity</string>
+    <string name="menu_item_fragment">Fragment</string>
+    <string name="menu_item_dialog">Open dialog</string>
+    <string name="message_simple_dialog">Simple dialog</string>
+    <string name="dialog_fragment">Dialog fragment</string>
+    <string name="button_message">Button message</string>
+</resources>
